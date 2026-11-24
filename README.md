@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anshuj
 
-### Web Developer &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Interactive Apps
+### Web Developer &nbsp;·&nbsp; AI / ML Engineer &nbsp; Interactive Web Pages
 
 <img src="https://komarev.com/ghpvc/?username=AnshujRawat&label=Profile%20views&color=4f46e5&style=flat" alt="Profile views" />
 
